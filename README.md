@@ -11,5 +11,5 @@ Height
 Grid Ref
 Also allow limiting number of results (I.e. only return 10 munros)
 
-Added Reloading and Clear sort option
+Added Reloading and Clear sort option , ng-table >>Table + Angular JS
 Pages displayed upto 100 divisons
